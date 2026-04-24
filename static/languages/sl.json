@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "V kolikšni meri sta svoboda in pluralizem medijev ogrožena v državah EU?",
+  "subtitle": "Leta 2024 je bila medijska svoboda močno ogrožena na Madžarskem, sledila pa ji je večina držav jugovzhodne Evrope.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Splošna razvrstitev predstavlja skupno oceno tveganja vsake države članice, izračunano kot preprosto povprečje ocen tveganja na štirih tematskih področjih MPM: temeljna zaščita, pluralnost trga, politična neodvisnost in socialna vključenost.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Center za medijski pluralizem in medijsko svobodo (2024)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
