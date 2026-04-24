@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Milyen mértékben van veszélyben a média szabadsága és pluralizmusa az uniós országokban?",
+  "subtitle": "2024-ben a médiaszabadság súlyos veszélyben volt Magyarországon, ezt követte Délkelet-Európa legtöbb országa.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az általános rangsor az egyes tagállamok összesített kockázati pontszámát jelenti, amelyet az MPM négy tematikus területének – alapvető védelem, piaci pluralizmus, politikai függetlenség és társadalmi befogadás – kockázati pontszámainak egyszerű átlagaként számítanak ki.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Médiapluralizmus és médiaszabadság központja (2024)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
