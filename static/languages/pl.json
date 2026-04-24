@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "W jakim stopniu wolność i pluralizm mediów są zagrożone w krajach UE?",
+  "subtitle": "W 2024 roku wolność mediów była poważnie zagrożona na Węgrzech, a następnie w większości krajów Europy Południowo-Wschodniej.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Klasyfikacja ogólna przedstawia łączny wynik ryzyka każdego Państwa członkowskiego, obliczony jako prosta średnia wyników ryzyka w czterech obszarach tematycznych MPM: ochrona podstawowych praw, pluralizm rynku, niezależność polityczna i integracja społeczna.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Centrum Pluralizmu i Wolności Mediów (2024)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
