@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "În ce măsură sunt puse în pericol libertatea și pluralismul mass-media în țările UE?",
+  "subtitle": "În 2024, libertatea presei a fost grav amenințată în Ungaria, urmată de majoritatea țărilor din sud-estul Europei.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Clasamentul general reprezintă scorul general de risc al fiecărui stat membru, calculat ca medie simplă a scorurilor de risc din cele patru domenii tematice ale MPM: Protecție fundamentală, Pluralitate pe piață, Independență politică și Incluziune socială.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Centrul pentru Pluralism Media și Libertate Media (2024)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
