@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Sa liema punt il-libertà u l-pluraliżmu tal-midja huma sfidati fil-pajjiżi tal-UE?",
+  "subtitle": "Fl-2024, il-libertà tal-midja kienet mhedda serjament fl-Ungerija, segwita mill-biċċa l-kbira tal-pajjiżi fix-Xlokk tal-Ewropa.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-klassifika ġenerali tirrappreżenta l-punteġġ tar-riskju ġenerali ta’ kull Stat Membru, ikkalkulat bħala l-medja sempliċi tal-punteġġi tar-riskju fl-erba’ oqsma tematiċi tal-MPM: Protezzjoni Fundamentali, Pluralità tas-Suq, Indipendenza Politika u Inklużività Soċjali.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Ċentru għall-Pluraliżmu tal-Midja u l-Libertà tal-Midja (2024)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
