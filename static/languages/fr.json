@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Dans quelle mesure la liberté et le pluralisme des médias sont-ils menacés dans les pays de l'UE ?",
+  "subtitle": "En 2024, la liberté des médias était gravement menacée en Hongrie, suivie par la plupart des pays d'Europe du Sud-Est.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Le classement général représente le score de risque global de chaque État membre, calculé comme la moyenne simple des scores de risque dans les quatre domaines thématiques du MPM : protection fondamentale, pluralisme des marchés, indépendance politique et inclusion sociale.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Centre pour le pluralisme des médias et la liberté des médias (2024)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
