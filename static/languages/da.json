@@ -1,13 +1,11 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "I hvilken grad er mediefrihed og pluralisme udfordret i EU-landene?",
+  "subtitle": "I 2024 var mediefriheden stærkt truet i Ungarn, efterfulgt af de fleste lande i Sydøsteuropa.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Den generelle rangordning repræsenterer hver medlemsstats samlede risikoscore, beregnet som det simple gennemsnit af risikoscorerne på tværs af de fire tematiske områder i MPM: Grundlæggende beskyttelse, markedspluralitet, politisk uafhængighed og social inklusion.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Center for Mediepluralisme og Mediefrihed (2024)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
   "tooltipExtraInfoLabel": "Klik her"
 }
